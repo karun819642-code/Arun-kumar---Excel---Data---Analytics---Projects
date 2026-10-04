@@ -1,6 +1,6 @@
 # 🏥 Hospital Emergency Room Dashboard
 ## 📸 Dashboard Preview
-![Hospital Emergency Room Dashboard](Hospital_Room_Dashboard.png)
+![Hospital Emergency Room Dashboard](Hospital_Room_Dashbord.png)
 
 ## 📊 Project Description
 
